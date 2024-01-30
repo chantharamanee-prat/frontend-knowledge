@@ -1,4 +1,4 @@
-# This repository contains the basic knowledge of Frontend Developer
+# This repository contains the basic knowledge for the  Frontend Developer Role.
 
 ## Table of contents
 1. HTML
@@ -9,7 +9,7 @@
    - [Basic SEO](/html/basic-seo.md)
 1. CSS
    - [Basic](./css/basic.md)
-   - Layout
+   - [Layout](./css/layout.md)
    - Responsive
 1. Javascript
    - Basic
