@@ -5,8 +5,8 @@
    - [Basic](./html/basic.md)
    - [Semantic HTML](./html/semantic-html.md)
    - [Forms and Validations](./html/forms-and-validations.md)
-   - Accessibility
-   - Basic SEO
+   - [Accessibility](./html/accessibility.md)
+   - [Basic SEO](/html/basic-seo.md)
 1. CSS
    - Basic
    - Layout
