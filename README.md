@@ -10,7 +10,7 @@
 1. CSS
    - [Basic](./css/basic.md)
    - [Layout](./css/layout.md)
-   - Responsive
+   - [Responsive](./css/responsive.md)
 1. Javascript
    - Basic
    - DOM Manipulation
