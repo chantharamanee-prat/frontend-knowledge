@@ -14,7 +14,7 @@
 1. Javascript
    - [Basic](./js/basic.md)
    - [DOM Manipulation](./js/dom-manipulation.md)
-   - Fetch / Ajax (XHR)
+   - [Fetch / AJAX (XHR)](./js/fetch-ajax.md)
 1. JS Frameworks
    - Vue.js
    - Angular
