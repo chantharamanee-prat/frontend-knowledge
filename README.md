@@ -21,8 +21,8 @@
    - Angular
    - [React](./js-frameworks/react.md)
 1. CSS Frameworks
-   - [Tailwind](./css-frameworks/tailwind.md)
    - [MUI(React)](./css-frameworks/mui.md)
+   - [Tailwind](./css-frameworks/tailwind.md)
 1. Test Frameworks
-   - Jest
+   - [Jest](./test-frameworks/jest.md)
    - Vitest
