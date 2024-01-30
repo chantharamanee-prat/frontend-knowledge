@@ -13,7 +13,7 @@
    - [Responsive](./css/responsive.md)
 1. Javascript
    - [Basic](./js/basic.md)
-   - DOM Manipulation
+   - [DOM Manipulation](./js/dom-manipulation.md)
    - Fetch / Ajax (XHR)
 1. JS Frameworks
    - Vue.js
