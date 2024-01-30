@@ -4,7 +4,7 @@
 1. HTML
    - [Basic](./html/basic.md)
    - [Semantic HTML](./html/semantic-html.md)
-   - Forms and Validations
+   - [Forms and Validations](./html/forms-and-validations.md)
    - Accessibility
    - Basic SEO
 1. CSS
