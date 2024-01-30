@@ -8,7 +8,7 @@
    - [Accessibility](./html/accessibility.md)
    - [Basic SEO](/html/basic-seo.md)
 1. CSS
-   - Basic
+   - [Basic](./css/basic.md)
    - Layout
    - Responsive
 1. Javascript
