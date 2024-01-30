@@ -84,3 +84,5 @@ DOM manipulation refers to the process of dynamically interacting with the Docum
    ```
 
 DOM manipulation is a fundamental aspect of web development and is crucial for creating dynamic and interactive web pages. By leveraging JavaScript to manipulate the DOM, you can create responsive and engaging user interfaces.
+
+For more information, please see: https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/
