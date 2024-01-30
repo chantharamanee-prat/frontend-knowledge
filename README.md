@@ -2,7 +2,7 @@
 
 ## Table of contents
 1. HTML
-   - Basic
+   - [Basic](./html/basic.md)
    - [Semantic HTML](./html/semantic-html.md)
    - Forms and Validations
    - Accessibility
