@@ -19,7 +19,7 @@
 1. JS Frameworks
    - Vue.js
    - Angular
-   - React
+   - [React](./js-frameworks/react.md)
 1. CSS Frameworks
    - Tailwind
    - Bootstrap 5
