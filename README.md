@@ -12,7 +12,7 @@
    - [Layout](./css/layout.md)
    - [Responsive](./css/responsive.md)
 1. Javascript
-   - Basic
+   - [Basic](./js/basic.md)
    - DOM Manipulation
    - Fetch / Ajax (XHR)
 1. JS Frameworks
